@@ -8,11 +8,14 @@
 
 import React from 'react';
 
-import Hello from './Hello';
+// import Hello from './Hello';
+import Camera from './Camera';
 
 const App: () => React$Node = () => {
   return (
-    <Hello />
+    <React.Fragment>      
+      <Camera />
+    </React.Fragment>
   );
 };
 

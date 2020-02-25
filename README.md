@@ -13,3 +13,5 @@
 ```
 
 - https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript#toc-anchor-008
+
+- Cemeara : https://react-native-community.github.io/react-native-camera/docs/rncamera
