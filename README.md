@@ -11,3 +11,5 @@
     • Have an Android emulator running (quickest way to get started), or a device connected.
     • cd "E:\code\ezcoder\cs3\reactnative" && npx react-native run-android
 ```
+
+- https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript#toc-anchor-008
